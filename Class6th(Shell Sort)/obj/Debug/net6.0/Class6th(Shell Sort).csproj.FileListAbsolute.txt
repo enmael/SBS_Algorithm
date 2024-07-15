@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\bin\Debug\net6.0\Class6th(Shell Sort).exe
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\bin\Debug\net6.0\Class6th(Shell Sort).deps.json
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\bin\Debug\net6.0\Class6th(Shell Sort).runtimeconfig.json
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\bin\Debug\net6.0\Class6th(Shell Sort).dll
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\bin\Debug\net6.0\Class6th(Shell Sort).pdb
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\obj\Debug\net6.0\Class6th(Shell Sort).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\obj\Debug\net6.0\Class6th(Shell Sort).AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\obj\Debug\net6.0\Class6th(Shell Sort).AssemblyInfo.cs
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\obj\Debug\net6.0\Class6th(Shell Sort).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\obj\Debug\net6.0\Class6th(Shell Sort).sourcelink.json
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\obj\Debug\net6.0\Class6th(Shell Sort).dll
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\obj\Debug\net6.0\refint\Class6th(Shell Sort).dll
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\obj\Debug\net6.0\Class6th(Shell Sort).pdb
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\obj\Debug\net6.0\Class6th(Shell Sort).genruntimeconfig.cache
+C:\Users\Administrator\Desktop\SBS_Algorithm\Class6th(Shell Sort)\obj\Debug\net6.0\ref\Class6th(Shell Sort).dll
