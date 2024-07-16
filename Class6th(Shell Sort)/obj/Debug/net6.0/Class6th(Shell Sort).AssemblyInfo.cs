@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class6th(Shell Sort)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9cbdc596f4b2a1bbefb6cf13a18ddef4919fc2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class6th(Shell Sort)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class6th(Shell Sort)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,36 +8,57 @@ namespace Program
 
         static void Main(string[] args)
         {
-            #region 계수 정렬
 
-            // 데이터의 값을 직접 비교하지 않고, 단순하게 
-            //각 숫자가 몇개 있는지 개수를 세어 저장한 다음
-            //정렬하는 알고리즘 입니다.
+            #region 이진 탐색 
+            //탐색 범위를 반으로 나누어 찾는 값을 포함하는 범위를
+            // 좁혀가는 방식으로 탐색하는 알고리즘
 
 
-            int[] array = new int[14] { 1, 6, 6, 6, 5, 1, 2, 3, 1, 2, 3, 6, 5, 4 };
-            int[] arrayCont = new int[6];
-           
-            for(int i = 0; i < arrayCont.Length; i++) 
+            int[] array = new int[10] { 5, 6, 8, 11, 22, 33, 44, 50, 51, 79 };
+
+            int middle = 0;
+            int left = 0;
+            int right = 0;
+
+            int number = 1;
+
+            right = array.Length - 1; //9
+
+            middle = 5;
+
+            if(middle % 2 ==0)
             {
-                for(int j = 0; j < array.Length; j++)
+                middle = middle +1;
+            }
+
+            while (array[middle] != number) 
+            {
+                if(middle < number)
                 {
-                    if (i + 1 == array[j])
-                    {
-
-                        arrayCont[i] = arrayCont[i] + 1;
-                    }
-                    
+                    left = middle+1;
+                    middle = (left - right)/2;
                 }
-               
-
+                else if(middle > number) 
+                {
+                    right = middle-1;
+                    middle = (right - left) / 2  ;
+                }
+                //else if (array[middle] == number)
+                //{
+                //    Console.WriteLine(middle+ "번째에" + number +"존재");
+                //    break;
+                //}
+                else if(left > right)
+                {
+                    Console.WriteLine("값이 존재하지 않는다.");
+                    break;
+                }
+                
             }
 
-            for(int k = 0; k < arrayCont.Length; k++)
-            {
-                Console.WriteLine(arrayCont[k]);
-            }
+
             #endregion
+
         }
     }
 }

@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Calss3th (bubble sort)\Calss3th (bubble sort).csproj" />
+  </ItemGroup>
+
 </Project>
