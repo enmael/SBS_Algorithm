@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Program")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Calss10th(Divide and Conquer)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e6cbfc0e99e4b261e4093934c3731208924b0eb")]
-[assembly: System.Reflection.AssemblyProductAttribute("Program")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Program")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("Calss10th(Divide and Conquer)")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Calss10th(Divide and Conquer)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

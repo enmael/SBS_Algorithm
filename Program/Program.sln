@@ -17,9 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class5th(insert Sort)", "..
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class6th(Shell Sort)", "..\Class6th(Shell Sort)\Class6th(Shell Sort).csproj", "{13E8F58F-1F59-4C8A-B025-43F3F80F4DAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class7th(Comparison Sort)", "..\Class7th(Comparison Sort)\Class7th(Comparison Sort).csproj", "{81DFDA1E-A9DF-4B18-B2E0-86D0B27FF8AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class7th(Comparison Sort)", "..\Class7th(Comparison Sort)\Class7th(Comparison Sort).csproj", "{81DFDA1E-A9DF-4B18-B2E0-86D0B27FF8AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class8th(two -pointer)", "..\Class8th(two -pointer)\Class8th(two -pointer).csproj", "{521706F5-F6A0-4604-B093-7392DB743B5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class8th(two -pointer)", "..\Class8th(two -pointer)\Class8th(two -pointer).csproj", "{521706F5-F6A0-4604-B093-7392DB743B5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class9th (Birnary Search)", "..\Class9th (Birnary Search)\Class9th (Birnary Search).csproj", "{7800AB9C-493E-4357-AF6D-C58FBDB4550C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calss10th(Divide and Conquer)", "..\Calss10th(Divide and Conquer)\Calss10th(Divide and Conquer).csproj", "{2B82629E-7651-4951-9ACF-8817E1046599}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{521706F5-F6A0-4604-B093-7392DB743B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{521706F5-F6A0-4604-B093-7392DB743B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{521706F5-F6A0-4604-B093-7392DB743B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7800AB9C-493E-4357-AF6D-C58FBDB4550C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7800AB9C-493E-4357-AF6D-C58FBDB4550C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7800AB9C-493E-4357-AF6D-C58FBDB4550C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7800AB9C-493E-4357-AF6D-C58FBDB4550C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B82629E-7651-4951-9ACF-8817E1046599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B82629E-7651-4951-9ACF-8817E1046599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B82629E-7651-4951-9ACF-8817E1046599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B82629E-7651-4951-9ACF-8817E1046599}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
