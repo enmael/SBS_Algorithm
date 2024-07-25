@@ -1,36 +1,44 @@
-﻿namespace Program
+﻿using System.Security.Cryptography;
+
+namespace Program
 {
  
     internal class Program
     {
-        #region 백트래킹(하노이탑)
+        #region 완전수
 
-        static void Hanoi(int n, char from, char by, char to)
+        static void Number(int number)
         {
-            
-        }
+            int count = 0;
+            for(int i = 1; i <= number/2; i++) 
+            {
+                if(number % i == 0)
+                {
+                    count = count + i;
+                }
 
-        static void Hanoi2(int n, int[]from, int[]by, int[]to)
-        {
+            }
 
-            
+            if(number == count)
+            {
+                Console.WriteLine(number + " 는 완전수이다");
+            }
+            else
+            {
+                Console.WriteLine(number + " 는 완전수가 아니다");
+            }
         }
         #endregion
         static void Main(string[] args)
         {
-            #region 백트래킹(하노이탑)
-            // 해를 찾아가는 도중에 지금의 경로가 해가 될것 같지 않으면,
-            //더 이상 깊에 들어가지 않고, 이전 단계로 돌아가는 알고리즘
+            #region 완전수
+            //Number(6);
+            //Number(28);
+            //Number(496);
+            //Number(8128);
+            //Number(5);
 
-
-            //백트래킹의 유망성 판단
-            //해가 될 만하지 판단한 후에 유망하지 않다고 결정된면.
-            //ㄱ, 노드의 이전 노드로 돌아가 다음자식 노드로 이동
-
-            //해가 될만한 가능성이 있다면 유망하다.(promising)
-            //유망하지 않은 노드에 가지 않는것 (pruning)
-
-
+            Number(523776);
             #endregion
         }
     }
