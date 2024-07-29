@@ -41,9 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class 17th(back tracking)",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class 18th(Depth-First Search)", "..\Class 18th(Depth-First Search)\Class 18th(Depth-First Search).csproj", "{056F36FC-DE4E-4A16-9D76-069FECC4B593}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex01", "..\Ex01\Ex01.csproj", "{5D05E4D3-1ED7-4292-B092-0FB7C8DD7E58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex01", "..\Ex01\Ex01.csproj", "{5D05E4D3-1ED7-4292-B092-0FB7C8DD7E58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class19th(Breadth-first search)", "..\Class19th(Breadth-first search)\Class19th(Breadth-first search).csproj", "{D2336186-6566-4086-81E8-885022367FC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class19th(Breadth-first search)", "..\Class19th(Breadth-first search)\Class19th(Breadth-first search).csproj", "{D2336186-6566-4086-81E8-885022367FC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calss20th(Topological sorting)", "..\Calss20th(Topological sorting)\Calss20th(Topological sorting).csproj", "{44889B52-A94F-4E11-B3B4-F12F8D5F8924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class21th (Union-Find)", "..\Class21th (Union-Find)\Class21th (Union-Find).csproj", "{15B0C2C8-4126-484D-8C25-4FE2137EDAB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,14 @@ Global
 		{D2336186-6566-4086-81E8-885022367FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2336186-6566-4086-81E8-885022367FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2336186-6566-4086-81E8-885022367FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44889B52-A94F-4E11-B3B4-F12F8D5F8924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44889B52-A94F-4E11-B3B4-F12F8D5F8924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44889B52-A94F-4E11-B3B4-F12F8D5F8924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44889B52-A94F-4E11-B3B4-F12F8D5F8924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B0C2C8-4126-484D-8C25-4FE2137EDAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B0C2C8-4126-484D-8C25-4FE2137EDAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B0C2C8-4126-484D-8C25-4FE2137EDAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B0C2C8-4126-484D-8C25-4FE2137EDAB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
