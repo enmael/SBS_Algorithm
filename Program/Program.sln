@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calss20th(Topological sorti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class21th (Union-Find)", "..\Class21th (Union-Find)\Class21th (Union-Find).csproj", "{15B0C2C8-4126-484D-8C25-4FE2137EDAB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class22th(weighted graph)", "..\Class22th(weighted graph)\Class22th(weighted graph).csproj", "{D2BA5E43-29D9-497E-A041-96554C036048}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class22th(weighted graph)", "..\Class22th(weighted graph)\Class22th(weighted graph).csproj", "{D2BA5E43-29D9-497E-A041-96554C036048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class23th(Prefix Sum)", "..\Class23th(Prefix Sum)\Class23th(Prefix Sum).csproj", "{BC4E8B16-A235-43F0-8556-4978737B4C48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{D2BA5E43-29D9-497E-A041-96554C036048}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2BA5E43-29D9-497E-A041-96554C036048}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2BA5E43-29D9-497E-A041-96554C036048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4E8B16-A235-43F0-8556-4978737B4C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4E8B16-A235-43F0-8556-4978737B4C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4E8B16-A235-43F0-8556-4978737B4C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4E8B16-A235-43F0-8556-4978737B4C48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
